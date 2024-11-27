@@ -1,9 +1,139 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1">
   <diagram name="Page-1" id="WMEvMQvgGlAdVSdO1EcV">
-    <mxGraphModel>
+    <mxGraphModel dx="2632" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-1" value="O‘zbekiston texnik jihatdan tartibga solish agentligining Texnik jihatdan tartibga solish sohasida nazorat inspeksiya tomonidan&amp;nbsp; ekspertiza xulosasi berish sxemasi" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-660" width="1745" height="1185" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-2" value="Ariza beruvchi" style="swimlane;startSize=20;html=1;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-1">
+          <mxGeometry y="20" width="570" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QGYkuM-SD6Ew6iko7fnx-2" source="QGYkuM-SD6Ew6iko7fnx-16" target="QGYkuM-SD6Ew6iko7fnx-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="35" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="20" y="195" />
+              <mxPoint x="130" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-9" value="Avtotransport vositalarini&amp;nbsp; turini tasdiqlashdan o‘tkazish uchun hujjatlar to‘plamini shakllantiradi." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-2">
+          <mxGeometry x="250" y="50" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-11" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;entryX=0.009;entryY=0.427;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QGYkuM-SD6Ew6iko7fnx-2" target="QGYkuM-SD6Ew6iko7fnx-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="50" y="79.99239245700574" as="sourcePoint" />
+            <mxPoint x="230" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QGYkuM-SD6Ew6iko7fnx-2" source="QGYkuM-SD6Ew6iko7fnx-13" target="QGYkuM-SD6Ew6iko7fnx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-13" value="Sertifikatlashtirish organiga avtotransport vositalarini  turini tasdiqlashdan o‘tkazish uchun ariza beradi." style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-2">
+          <mxGeometry x="30" y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-15" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-2">
+          <mxGeometry x="10" y="40" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-16" value="Arizachi&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-2">
+          <mxGeometry y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Bajarish muddati:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Ariza beruvchining xohishiga ko‘ra&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-2">
+          <mxGeometry x="75" y="400" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-42" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-2">
+          <mxGeometry x="370" y="360" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-3" value="Sertifikatlashtirish organi" style="swimlane;startSize=20;html=1;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-1">
+          <mxGeometry x="570" y="20" width="675" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QGYkuM-SD6Ew6iko7fnx-3" source="QGYkuM-SD6Ew6iko7fnx-32" target="QGYkuM-SD6Ew6iko7fnx-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-36" value="Ha" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QGYkuM-SD6Ew6iko7fnx-35">
+          <mxGeometry x="-0.6024" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ha&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QGYkuM-SD6Ew6iko7fnx-35">
+          <mxGeometry x="-0.6134" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="QGYkuM-SD6Ew6iko7fnx-3" source="QGYkuM-SD6Ew6iko7fnx-32" target="QGYkuM-SD6Ew6iko7fnx-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-39" value="Yuq" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QGYkuM-SD6Ew6iko7fnx-38">
+          <mxGeometry x="-0.4157" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-40" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Yuq&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QGYkuM-SD6Ew6iko7fnx-38">
+          <mxGeometry x="-0.3798" y="7" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-32" value="Sertifikatlashtirish uchun yetarli ma’lumot bormi?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-3">
+          <mxGeometry x="40" y="80" width="140" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QGYkuM-SD6Ew6iko7fnx-3" source="QGYkuM-SD6Ew6iko7fnx-34" target="QGYkuM-SD6Ew6iko7fnx-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QGYkuM-SD6Ew6iko7fnx-3" source="QGYkuM-SD6Ew6iko7fnx-34" target="QGYkuM-SD6Ew6iko7fnx-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-34" value="Sertifikatlashtirish ishlarini amalga&amp;nbsp;oshirishga qaror qabul qilinadi" style="whiteSpace=wrap;html=1;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-3">
+          <mxGeometry x="310" y="50" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-37" value="Arizachiga asoslantirilgan rad javobini berish" style="whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-3">
+          <mxGeometry x="50" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QGYkuM-SD6Ew6iko7fnx-3" source="QGYkuM-SD6Ew6iko7fnx-44" target="QGYkuM-SD6Ew6iko7fnx-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-44" value="Qaror qabul qilingandan so‘ng Texnik jihatdan tartibga solish sohasida nazorat inspeksiyasini ishlab chiqarish sharoitini joyida baholashda ishtirok etishni so‘rab murojaat qiladi." style="whiteSpace=wrap;html=1;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-3">
+          <mxGeometry x="272.5" y="227" width="225" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-46" value="2 kun ichida&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-3">
+          <mxGeometry x="570" y="75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-50" value="1 kun ichida&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-3">
+          <mxGeometry x="327.5" y="446.5" width="115" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-4" value="Texnik jihatdan tartibga solish sohasida nazorat inspeksiyasi" style="swimlane;startSize=20;html=1;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-1">
+          <mxGeometry x="1245" y="20" width="500" height="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QGYkuM-SD6Ew6iko7fnx-4" source="QGYkuM-SD6Ew6iko7fnx-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="152.5" y="130.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QGYkuM-SD6Ew6iko7fnx-4" source="QGYkuM-SD6Ew6iko7fnx-49" target="QGYkuM-SD6Ew6iko7fnx-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-49" value="Ishlab chiqarish joyida baholash ishlarini o‘tkazishda ishtirok etish uchun hodim ajratadi." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-4">
+          <mxGeometry x="65" y="227" width="175" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QGYkuM-SD6Ew6iko7fnx-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="283.58" as="targetPoint" />
+            <mxPoint x="-177.5" y="283.58" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-56" value="Belgilangan muddatlarda" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-4">
+          <mxGeometry x="93" y="100" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-57" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="QGYkuM-SD6Ew6iko7fnx-4">
+          <mxGeometry x="58.75" y="490" width="187.5" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QGYkuM-SD6Ew6iko7fnx-1" source="QGYkuM-SD6Ew6iko7fnx-13" target="QGYkuM-SD6Ew6iko7fnx-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGYkuM-SD6Ew6iko7fnx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.038;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QGYkuM-SD6Ew6iko7fnx-1" source="QGYkuM-SD6Ew6iko7fnx-37" target="QGYkuM-SD6Ew6iko7fnx-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
